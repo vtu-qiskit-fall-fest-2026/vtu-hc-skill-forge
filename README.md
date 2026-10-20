@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Skill Forge** · Team ID `VTU-QFF-HC-0095` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Skill Forge)
+[⬆ Back to Top](#skill-forge)
 
 </div>
